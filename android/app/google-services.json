@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1096424820063",
+    "project_id": "student-management-a7599",
+    "storage_bucket": "student-management-a7599.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096424820063:android:37f0265d7b261345d2baea",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDefw8Kcysd1sVKG9JfPW-CZ7qYFYQUe3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
