@@ -20,7 +20,6 @@ class SplashScreenController extends GetxController {
           MaterialPageRoute(builder: (_) => HomeScreen()),
               (route) => false, // Removes all previous routes from the stack
         );
-
       }else{
         Get.off(()=>LoginScreen());
       }
